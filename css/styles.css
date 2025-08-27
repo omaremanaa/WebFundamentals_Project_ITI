@@ -131,7 +131,6 @@ html {
 	margin-inline: 364px;
 	margin-bottom: 200px;
 	text-align: center;
-	justify-items: center;
 }
 
 
@@ -431,6 +430,8 @@ section, main {
 	margin-inline: 70px;
 	margin-bottom: 200px;
 	text-align: center;
+	justify-items: center;
+
 }
 
 .aboutSection {
